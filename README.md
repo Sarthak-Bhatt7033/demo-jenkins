@@ -1,1 +1,1 @@
-# demo-jenkins - test 1 for  jenkins git plugin
+# demo-jenkins - test 1 for poll scm
